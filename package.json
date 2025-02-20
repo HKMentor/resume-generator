@@ -1,12 +1,24 @@
 {
   "name": "hacakthon-1",
   "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
-  "author": "",
-  "type": "commonjs",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HKMentor/resume-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HKMentor/resume-generator/issues"
+  },
+  "homepage": "https://github.com/HKMentor/resume-generator#readme",
+  "description": "",
+  "dependencies": {
+    "html2pdf.js": "^0.10.2"
   }
 }
